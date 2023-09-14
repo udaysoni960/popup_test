@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Derivia';
+    src: url('Derivia-Regular.woff2') format('woff2'),
+        url('Derivia-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
